@@ -5,7 +5,7 @@
 
 ## Current table of contents:
 
-- ### CelebA Datasets
+- ### [CelebA Datasets](https://github.com/jimmy-academia/downloadable/releases/tag/dset.celeba)
     - <b>CelebA.zip</b><br>this file contains <b>Large-scale CelebFaces Attributes (CelebA) Dataset</b>, excluding the img_aligned_celeba.zip<br>[original site link](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html), [original google drive link](https://drive.google.com/drive/folders/1lENOECdd-8is7RnVSGOrlCdamYJ8hyhd)<br>the folder contains:
         - Img
             - img_celeba.7z (may be broken)
@@ -33,7 +33,7 @@
 
 ## Usage   
 ### download commands:   
-right click on *.zip to get the `<url>`    
+right click on *.zip and chose "copy link url" to get the `<url>`    
 `wget <url>`   
 
 ### extraction commands:   
