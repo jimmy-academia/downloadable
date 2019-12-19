@@ -1,6 +1,6 @@
 # downloadable
 
-> This repository is for hosting small datasets or models weights, in order to achieve efficiency, as well as avoiding Google drive download quotas in downloading popular datasets.
+This repository is for hosting small datasets or models weights, in order to achieve efficiency, as well as avoiding Google drive download quotas in downloading popular datasets.
 > The datasets will be regrouped for the compressed file to be less than 2GB. The files are located in the "releases" sections above.
 
 ## Current table of contents:
