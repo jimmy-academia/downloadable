@@ -36,6 +36,9 @@ This repository is for hosting small datasets or models weights, in order to ach
 right click on *.zip and chose "copy link url" to get the `<url>`    
 `wget <url>`   
 
+#### notes on slow downloads:  
+We found that wget speeds vary largely from `14MB/s` all the way to `700KB/s` for trials within seconds appart. If the download speed is slow, stop the process and try again. We found that the suggestion in this [reference](https://stackoverflow.com/questions/94074/slow-wget-speeds-when-connecting-to-https-pages) does not work, and the download speed is mainly a matter of luck.
+
 ### extraction commands:   
 `unzip celeba.zip`   
 `7za e img_celeba.7z`   
